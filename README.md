@@ -87,7 +87,7 @@ https://popcone.jp/
 
 チーム…ライター1名、マネージャー1名
 
-担当…漫画執筆（https://popcone.jp/category/series/）、WordPress設定・コーディング、画像素材作成
+担当…漫画執筆（ https://popcone.jp/category/series/ ）、WordPress設定・コーディング、画像素材作成
 - ACE NAVI(事業所閉鎖に伴い中途凍結)
 
 PMを担当
